@@ -3,9 +3,8 @@
 
 
 ## detailed-description
-A collection of tools and resources useful for OSINT investigations on **cryptocurrencies and blockchain analysis**.  
-This list is not exhaustive — most of what you find here is related to investigations I've personally conducted.  
-Feel free to fork, share, and contribute any additional tools or insights.
+A collection of tools and resources useful for investigations on **cryptocurrencies and blockchain analysis**.  
+
 
 ## 🔖 Tagging System
 - 🔍 Blockchain Explorer  
